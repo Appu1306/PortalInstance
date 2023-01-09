@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CannotEditPageMessage.Value" Value="You cannot edit this page. You can only edit pages created in the Page Designer.&#xA;To change your homepage or add a new homepage, go to workplace setup." />
+			<Item Name="LocalizableStrings.ChatMenuSeparator.Value" Value="צ'אט" />
+			<Item Name="LocalizableStrings.CompanyProfileCaption.Value" Value="ארגון" />
+			<Item Name="LocalizableStrings.EditPageCaption.Value" Value="Edit page" />
+			<Item Name="LocalizableStrings.ExtendedUserProfileCaption.Value" Value="הגדרות" />
+			<Item Name="LocalizableStrings.OpenSystemDesignerCaption.Value" Value="Open system designer" />
+			<Item Name="LocalizableStrings.RedirectToWorkplaceCaption.Value" Value="Workplace setup" />
+			<Item Name="LocalizableStrings.SspProfileCaption.Value" Value="פרופיל" />
+			<Item Name="LocalizableStrings.TelephonyMenuSeparator.Value" Value="טלפוניה" />
+		</Items>
+	</Group>
+</Resources>

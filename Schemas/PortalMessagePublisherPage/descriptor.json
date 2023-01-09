@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "966a6f70-ab3d-4261-8a73-23ec1bf03690",
+    "Name": "PortalMessagePublisherPage",
+    "ModifiedOnUtc": "\/Date(1672219211000)\/",
+    "Parent": {
+      "UId": "a1d7ab6e-673e-4b26-ae69-51c30e02732b",
+      "Name": "PortalMessagePublisherPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Portal message publisher page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "b2a20ea4-cc7a-4c71-bb4d-0e92a5e6be4b",
+    "Name": "PortalCaseSectionActionsDashboard",
+    "ModifiedOnUtc": "\/Date(1672219853000)\/",
+    "Parent": {
+      "UId": "cca26c8a-43b4-4fb4-85b7-2a6768aaa38f",
+      "Name": "PortalCaseSectionActionsDashboard"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PortalCaseSectionActionsDashboard",
+    "DependsOn": []
+  }
+}

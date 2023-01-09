@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "11724f34-999a-4baf-9c6e-24bfa68229d0",
+    "Name": "PortalCasePage",
+    "ModifiedOnUtc": "\/Date(1672221173000)\/",
+    "Parent": {
+      "UId": "b5f26c3c-a60f-4218-8bb8-b1e38a1071e2",
+      "Name": "PortalCasePage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page schema - \"Cases\" section on Portal",
+    "DependsOn": []
+  }
+}

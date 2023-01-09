@@ -1,0 +1,25 @@
+﻿{
+  "Descriptor": {
+    "UId": "992e12f1-9d6b-45ff-8f9c-1ceb9316d2b1",
+    "Name": "DevPackage",
+    "ModifiedOnUtc": "\/Date(1671017711000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      },
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      },
+      {
+        "UId": "ec658e0b-8f59-4907-995e-b8f2a97c235d",
+        "PackageVersion": "7.8.0",
+        "Name": "PortalMessagePublisher"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "8fd53713-0e82-4a27-a17f-90bedc7e2c92",
+    "Name": "BaseMessagePublisherPage",
+    "ModifiedOnUtc": "\/Date(1672219588000)\/",
+    "Parent": {
+      "UId": "6b7d0022-f128-4c6e-8372-ce9d8819fbfa",
+      "Name": "BaseMessagePublisherPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "BaseMessagePublisherPage",
+    "DependsOn": []
+  }
+}

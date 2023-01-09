@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "0a238efe-3bb6-42b2-a599-5642cd009abc",
+    "Name": "PortalCaseSection",
+    "ModifiedOnUtc": "\/Date(1672221057000)\/",
+    "Parent": {
+      "UId": "77fa8de4-b861-4c49-87b0-dda2241f0ea4",
+      "Name": "PortalCaseSection"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"קריאה\"",
+    "DependsOn": []
+  }
+}
